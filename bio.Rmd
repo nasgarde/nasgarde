@@ -1,0 +1,57 @@
+---
+title: "Bio"
+output: html_document
+---
+
+My name is Tobias. I wish I had enough interesting stuff to fill this whole page for you. However, I believe that some general info in connection to references from tv-series will be a lot more intriguing for anybody who is reading this.
+
+Here are some of the shows I like:
+
+* The Office
+* Rick and Morty
+* Friends
+* Gossip Girl
+
+
+To start off, I will try the blockquote markdown: 
+
+> "How can they be allowed to have a football team if they are not even a state?!"
+
+**- Joey Tribbiani regarding New England after proudly counting to 56 states in the U.S.**
+
+
+Here is a table with some characters that I like and from what series they're from: 
+
+Character  | Series
+------------- | -------------
+Dwight Schrute  | the Office
+Ross Geller  | FRIENDS
+Morty | Rick and Morty
+Serena van der Woodsen | Gossip Girls
+
+
+
+
+# *Interests*
+I was born in Stockholm, Sweden in 1994. It was originally ice hockey that brought me over here to the U.S. However, after a while I figured it was time to realize that I will not make it to the NHL and decided to focus more on my off-ice career. Inspired by Dwight Schrute, I have grown a vast interest of bears. Therefore, in honor of the bears, I will provide you a list of some bear facts: 
+
+
+1. Brown bears are the best bears.
+2. Bears eat beets.
+3. Bears. Beat. Battlestar Galactica. 
+4. Identity theft is not a joke, Jim.
+      + Millions of families suffer from it every year. 
+      
+That last one was just an important fact that I am passionate to spread awareness of. 
+
+[//]: (My apologies for the office reference)
+
+[Here](http://gungbrinken.com) is another website that I started building. I wish I had a good excuse for not finishing it. 
+
+
+# *Impact*
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+I very much hope that I will be able to provide some impact on this world - preferably with exponential growth like in this graph. 
